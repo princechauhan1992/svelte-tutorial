@@ -1,5 +1,5 @@
 // eslint-disable-next-line no-undef
-const CACHE_NAME = `cache_${1597605054225}`;
+const CACHE_NAME = `cache_${1597605493800}`;
 
 const shell = ['/', '/manifest.json', '/global.css', '/icons/right.svg', '/icons/wrong.svg', '/icons/compare.svg', '/build/bundle.js', '/build/bundle.css'];
 

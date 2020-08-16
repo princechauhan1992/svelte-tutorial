@@ -53,6 +53,7 @@
         button {
             display: inline;
             margin: 0 0.2em 0.4em 0.2em;
+            width: auto;
         }
     }
 </style>
